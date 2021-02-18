@@ -1,5 +1,0 @@
-Hi 
-I am bhumika.....
-Hello Bhumika
-I am next commit
-I am last commit
